@@ -1,3 +1,6 @@
 index:
   path: /
   controller: App\Controller\ArticleController::index
+sth:
+  path: /sth
+  controller: App\Controller\NextController::index2
