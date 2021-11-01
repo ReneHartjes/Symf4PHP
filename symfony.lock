@@ -115,6 +115,9 @@
             "./config/packages/sensio_framework_extra.yaml"
         ]
     },
+    "symfony/asset": {
+        "version": "v5.3.4"
+    },
     "symfony/cache": {
         "version": "v5.3.8"
     },
@@ -256,6 +259,9 @@
         "version": "v5.3.4"
     },
     "symfony/string": {
+        "version": "v5.3.7"
+    },
+    "symfony/templating": {
         "version": "v5.3.7"
     },
     "symfony/translation-contracts": {

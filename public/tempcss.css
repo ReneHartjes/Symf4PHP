@@ -1,0 +1,17 @@
+#inputdiv {
+  width: 300px;
+  height: 400px;
+  background-color: #333;
+}
+
+#inputdiv input {
+  width: 150px;
+  margin-left: 75px;
+  margin-top: 10px;
+  padding: 10px;
+}
+
+#inputdiv input:last-child {
+  width: 120px;
+  margin-left: 95px;
+}

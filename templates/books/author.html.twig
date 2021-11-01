@@ -1,0 +1,30 @@
+{% extends "base.html.twig"%}
+
+
+ {% block body %}
+ 
+ 
+ 
+ <p> Lorem ipsum </p>
+
+{% for val in data %}
+
+<p> hello {{val.text}} </p>
+
+{% endfor %}
+
+
+
+        {% block javascripts %}
+            <script>
+
+            console.log("dqweqwe")
+
+            </script>
+        {% endblock %}
+
+ 
+ 
+ 
+ 
+ {% endblock %}

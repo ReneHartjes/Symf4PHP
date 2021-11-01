@@ -4,3 +4,16 @@ index:
 sth:
   path: /sth
   controller: App\Controller\NextController::index2
+
+newest:
+  path: /new
+  controller: App\Controller\FormalController::index3
+
+saver:
+  path: /saver
+  controller: App\Controller\DbController::index4
+
+
+index:
+  path: /db
+  controller: App\Controller\MyController::index
